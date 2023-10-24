@@ -13,12 +13,12 @@ Summary:
 7. dumping dockers using Docker Registry API
 8. exploiting LFI in undocumented API endpoint
 9. find password in log file for user john
---> user
+==> user
 
 10. sudo perms on python script
 11. bypass network restricions
 12. bypass volume restricions
 13. bypass read only flag
---> root
+==> root
 
 
